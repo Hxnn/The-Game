@@ -29,3 +29,4 @@ if Gun == "n":
             print('You failed... The thief just picked up the gun and shot you... Dumbass')
         if Weaponrun == "rush":
             print('You failed... The thief dodged your rush, picked up the gun and shot you... Dumbass')
+    
